@@ -7,6 +7,7 @@ Considere la clase Ruby para representar fracciones que ha implementado usando e
 Para ello realizar los siguientes pasos:
 
 2.1.-) Darse de alta en 'https://travis-ci.org/' y permitir que se acceda desde Github (poniendo a ON el proyecto).
+	 Estado de TRAVIS [![Build Status](https://travis-ci.org/alu0100699906/pract07.png?branch=master)](https://travis-ci.org/alu0100699906/pract07)
 
 2.2.) Crear un fichero '.travis.yml' que contenga el listado de plataformas sobre las que se quiere comprobar el correcto funcionamiento, por ejemplo:
 
